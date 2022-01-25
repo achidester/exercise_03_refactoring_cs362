@@ -1,3 +1,5 @@
+#Exercise 3 // cs362 // Alex Chidester
+
 class IceBoxRefrigerator
 
     attr_reader :height, :width, :depth

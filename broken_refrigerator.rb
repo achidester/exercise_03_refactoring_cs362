@@ -1,3 +1,5 @@
+#Exercise 3 // cs362 // Alex Chidester
+
 class BrokenRefrigerator
 
     attr_reader :height, :width, :depth

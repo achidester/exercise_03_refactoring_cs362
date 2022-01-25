@@ -1,3 +1,5 @@
+#Exercise 3 // cs362 // Alex Chidester
+
 require 'minitest/autorun'
 require_relative 'kitchen'
 require_relative 'ice_box_refrigerator'

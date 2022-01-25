@@ -1,3 +1,5 @@
+#Exercise 3 // cs362 // Alex Chidester
+
 require_relative 'ice_box_refrigerator'
 require_relative 'broken_refrigerator'
 require_relative 'kombucha'
